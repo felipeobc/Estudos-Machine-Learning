@@ -1,0 +1,6 @@
+1 - Programa 'Adult'  O algoritimo utilizando apenas uma tabela  para treinar e testar 30% dos dados  que de acordo com as variavies ('education-num','age','hours-per-week', 'capital-gain')  mensionadas  e mostrar a acuacy de acerto se o cidadão  ganha mais de 50k ou não.
+
+
+2 - Programa 'Treinamento de data e test'  O algoritimo utiliza duas tabela  para treinar e a outra pra  testar utilizando  100% dos dados,   que de acordo com as variavies ('education-num','age','hours-per-week', 'capital-gain') mostrando o (precision    recall  f1-score   support) para se o cidadão  ganha mais de 50k ou não.
+
+
